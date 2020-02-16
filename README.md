@@ -1,0 +1,2 @@
+# EnriqueBot
+host enriquebot
